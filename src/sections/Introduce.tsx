@@ -3,7 +3,7 @@ import PhoneComponent from "../components/PhoneComponent";
 import homeLogo from "../assets/icons8-home.svg";
 const Introduce = () => {
   return (
-    <div className="flex gap-[6vw]">
+    <div className="flex flex-col md:flex-row gap-[6vw]">
       <div>
         <PhoneComponent />
       </div>

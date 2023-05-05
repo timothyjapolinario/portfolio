@@ -2,7 +2,7 @@ import timothyImage from "../assets/timothy.png";
 import ContactList from "./ContactList";
 const PhoneComponent = () => {
   return (
-    <div className="flex flex-1 flex-col rounded-[40px] justify-evenly items-center text-white border-solid border-gray-600 border-4 p-4 h-full">
+    <div className="h-screen md:h-full flex flex-1 flex-col rounded-[40px] justify-evenly items-center text-white border-solid border-gray-600 border-4 p-4">
       <div className="flex space-x-5">
         <h1 className="md:text-[3.2vh] font-bold">Timothy</h1>
         <p className="md:text-[2vh]">Fullstack Developer</p>

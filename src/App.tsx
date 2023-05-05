@@ -3,9 +3,9 @@ import Introduce from "./sections/Introduce";
 
 function App() {
   return (
-    <div className="flex h-screen  bg-[#0f0f0f] relative p-6">
+    <div className="flex min-h-screen  bg-[#0f0f0f] relative p-6">
       <Introduce />
-      <div className="w-[10vw]">
+      <div className="hidden md:block w-[10vw]">
         <Menu />
       </div>
     </div>
