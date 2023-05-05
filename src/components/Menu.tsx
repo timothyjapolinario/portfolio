@@ -7,11 +7,17 @@ import messageActive from "../assets/menu-icons/message-active.png";
 import message from "../assets/menu-icons/message-inactive.png";
 import projectsActive from "../assets/menu-icons/projects-active.png";
 import projects from "../assets/menu-icons/projects-inactive.png";
+import homeActive from "../assets/menu-icons/home-active.svg";
+import home from "../assets/menu-icons/home-inactive.svg";
 import { MenuIconType } from "../types";
 import MenuIcon from "./MenuIcon";
 import { useState } from "react";
 const Menu = () => {
   const menu: MenuIconType[] = [
+    {
+      activeImagePath: homeActive,
+      inactiveImagePath: home,
+    },
     {
       activeImagePath: projectsActive,
       inactiveImagePath: projects,
