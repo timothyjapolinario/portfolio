@@ -1,0 +1,17 @@
+@keyframes fade {
+  0%,
+  100% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+}
+
+.word-carousel {
+  width: 100px;
+  height: 100px;
+  position: relative;
+  background-color: red;
+  animation: fade 3.1s;
+}
