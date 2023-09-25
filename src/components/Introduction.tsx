@@ -7,12 +7,10 @@ const Introduction = () => {
         Saying <WordCarousel words={words} />
       </div>
       <div>
-        <span className="text-[#00a767] font-bold">Timothy</span>, Frontend and
-        Backend Developer.
+        <span className="text-[#00a767] font-bold">Timothy</span>, Fullstack Developer
       </div>
       <p className="text-[3vh] text-gray-600">
-        Translating designs to websites using the latest technologies. I can do
-        front end from simple to complex and a little backend.
+        Equipped with modern technologies, I give life to your amazing web application ideas and layouts.
       </p>
       <div className="mt-[20vh] md:pr-[10vw] w-full flex justify-center md:justify-end">
         <div className="w-[16vh] h-[16vh] text-[10vh] border-gray-600 border-s-8 border-e-8 rounded-full text-center animate-bounce">
