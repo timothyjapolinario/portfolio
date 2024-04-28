@@ -1,0 +1,25 @@
+{
+  "react": {
+    "name": "React",
+    "iconUrl": "public\\LanguageIcons\\react-icon.webp"
+  },
+  "javascript": {
+    "name": "JavaScript",
+    "iconUrl": "public\\LanguageIcons\\javascript-icon.png"
+  },
+  "typescript": {
+    "name": "TypeScript",
+    "iconUrl": "public\\LanguageIcons\\typescript-icon.png"
+  },
+  "html": { "name": "HTML", "iconUrl": "public\\LanguageIcons\\html-icon.png" },
+  "css": { "name": "CSS", "iconUrl": "public\\LanguageIcons\\css-icon.png" },
+  "python": {
+    "name": "JavaScript",
+    "iconUrl": "public\\LanguageIcons\\javascript-icon.png"
+  },
+  "csharp": {
+    "name": "TypeScript",
+    "iconUrl": "public\\LanguageIcons\\csharp-icon.png"
+  },
+  "java": { "name": "HTML", "iconUrl": "public\\LanguageIcons\\java-icon.png" }
+}
