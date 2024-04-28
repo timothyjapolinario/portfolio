@@ -35,5 +35,4 @@ const Project = ({ project }: Props) => {
     </div>
   );
 };
-const LanguageProject = (language: Language) => {};
 export default Project;
