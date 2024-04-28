@@ -2,7 +2,7 @@
   {
     "projectName": "Where's My Pokemon",
     "languages": ["react", "javascript", "html", "css", "typescript"],
-    "screenshotLink": "./ProjectScreenshots/WheresMyPokemon.png",
+    "screenshotLink": "ProjectScreenshots/WheresMyPokemon.png",
     "description": "Welcome to Where's My Pokemon! Get ready to dive into a world teeming with Pokemon wonders and excitement. In this captivating game, your mission is to scour the world of Pokemon to find and capture hidden Pokemon. With every picture holding a trove of surprises, sharpen your skills, and train your eye to spot these elusive creatures lurking in the shadows. Explore each scene, solve puzzles, and embark on an epic quest to catch 'em all! Are you ready to become the ultimate Pokemon master?"
   }
 ]
